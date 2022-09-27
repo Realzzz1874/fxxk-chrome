@@ -1,2 +1,2 @@
 # fxxk-chrome
-fxxk-chrome
+decrypted chrome password
